@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Unity**
 
-- 👨‍💻 All of my projects are available at [http://zachary-kublalsingh.vercel.app](http://zachary-kublalsingh.vercel.app)
+- 👨‍💻 All of my projects are available at [https://zachary-kublalsingh.vercel.app](https://zachary-kublalsingh.vercel.app)
 
 - 📫 How to reach me **zachary.kublalsingh@nyu.edu**
 
