@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zachkub1" alt="zachkub1" /></a> </p>
 
-- 🔭 I’m currently working on [EZETracking](http://ezetrackinglanding.vercel.app)
+- 🔭 I’m currently working on [Metaverse for Education](https://engineering.nyu.edu/vip-team/metaverse-education-gy)
+
+- 🌱 I’m currently learning **Unity**
 
 - 👨‍💻 All of my projects are available at [http://zachary-kublalsingh.vercel.app](http://zachary-kublalsingh.vercel.app)
 
@@ -16,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/zachary kublalsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zachary kublalsingh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/zachkub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zachkub" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/zachkub1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zachkub" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
