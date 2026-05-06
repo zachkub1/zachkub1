@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **zachary.kublalsingh@nyu.edu**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10a3mS3tBaQAjozagbwxojjYTimz3Mb3y/view?usp=sharing](https://drive.google.com/file/d/10a3mS3tBaQAjozagbwxojjYTimz3Mb3y/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/10a3mS3tBaQAjozagbwxojjYTimz3Mb3y/view?usp=sharing](https://drive.google.com/file/d/18kdJNXQwb5P23OyLmXpWUcfY_P1G6eIZ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
