@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zachkub1" alt="zachkub1" /></a> </p>
 
-- 🔭 I’m currently working on [spendi]([https://engineering.nyu.edu/vip-team/metaverse-education-gy](https://spendi.live/))
+- 🔭 I’m currently working on [spendi](https://spendi.live/)
 
 - 🌱 I’m currently learning **System Design**
 
